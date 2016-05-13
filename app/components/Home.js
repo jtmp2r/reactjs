@@ -1,0 +1,1 @@
+var Reaact = require ('react');
